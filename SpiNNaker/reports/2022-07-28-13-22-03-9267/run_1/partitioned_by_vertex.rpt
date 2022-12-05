@@ -1,0 +1,40 @@
+        Placement Information by Vertex
+        ===============================
+
+Generated: Thu Jul 28 13:22:43 2022 for target machine '10.11.193.81'
+
+**** Vertex: 'Excitatory_Cells'
+Model: AbstractPopulationVertex
+Pop size: 3600
+Machine Vertices: 
+  Slice 0:254 (255 atoms) 
+  Slice 255:509 (255 atoms) 
+  Slice 510:764 (255 atoms) 
+  Slice 765:1019 (255 atoms) 
+  Slice 1020:1274 (255 atoms) 
+  Slice 1275:1529 (255 atoms) 
+  Slice 1530:1784 (255 atoms) 
+  Slice 1785:2039 (255 atoms) 
+  Slice 2040:2294 (255 atoms) 
+  Slice 2295:2549 (255 atoms) 
+  Slice 2550:2804 (255 atoms) 
+  Slice 2805:3059 (255 atoms) 
+  Slice 3060:3314 (255 atoms) 
+  Slice 3315:3569 (255 atoms) 
+  Slice 3570:3599 (30 atoms) 
+
+**** Vertex: 'Inhibitory_Cells'
+Model: AbstractPopulationVertex
+Pop size: 900
+Machine Vertices: 
+  Slice 0:254 (255 atoms) 
+  Slice 255:509 (255 atoms) 
+  Slice 510:764 (255 atoms) 
+  Slice 765:899 (135 atoms) 
+
+**** Vertex: 'expoisson'
+Model: SpikeSourcePoissonVertex
+Pop size: 20
+Machine Vertices: 
+  Slice 0:19 (20 atoms) 
+

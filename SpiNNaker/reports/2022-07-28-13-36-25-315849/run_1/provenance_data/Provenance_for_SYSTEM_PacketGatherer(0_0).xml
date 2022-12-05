@@ -1,0 +1,512 @@
+<provenance_data_items name="Provenance_for_SYSTEM:PacketGatherer(0,0)">
+  <provenance_data_items name="extraction_time">
+    <provenance_data_items name="chip0:0">
+      <provenance_data_items name="Memory_address:1675395824:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002167224884033203</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1675395848:Length_in_bytes:35676">
+        <provenance_data_item name="run1">0.008270978927612305</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1683752736:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020313262939453125</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1683752760:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2191934585571289</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1691918208:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021338462829589844</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1691918232:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20833396911621094</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1697361856:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021195411682128906</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1697361880:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20832347869873047</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1621905240:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021457672119140625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1621905264:Length_in_bytes:35712">
+        <provenance_data_item name="run1">0.008726358413696289</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1686474560:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020837783813476562</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1686474584:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20867323875427246</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1705527328:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003402233123779297</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1705527352:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20840716361999512</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1719136448:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002143383026123047</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1719136472:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2082810401916504</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1646880256:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002079010009765625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1646880280:Length_in_bytes:35784">
+        <provenance_data_item name="run1">0.008332014083862305</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1672248656:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00022292137145996094</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1672248680:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2083263397216797</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1702805504:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00036406517028808594</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1702805528:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20862841606140137</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1716414624:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00031757354736328125</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1716414648:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20857858657836914</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1657884568:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003101825714111328</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1657884592:Length_in_bytes:35676">
+        <provenance_data_item name="run1">0.008166074752807617</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1660702112:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020837783813476562</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1660702136:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20839858055114746</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1669197208:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003123283386230469</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1669197232:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2084202766418457</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1675491544:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021457672119140625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1675491568:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20842671394348145</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1675300104:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002269744873046875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1675300128:Length_in_bytes:35820">
+        <provenance_data_item name="run1">0.01005697250366211</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1694640032:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020694732666015625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1694640056:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20838165283203125</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1724580096:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003609657287597656</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1724580120:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.21913838386535645</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1732745568:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002613067626953125</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1732745592:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20850253105163574</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1635897240:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003421306610107422</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1635897264:Length_in_bytes:35712">
+        <provenance_data_item name="run1">0.008086442947387695</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1666475384:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002219676971435547</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1666475408:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20841288566589355</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1678213368:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002932548522949219</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1678213392:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2084028720855713</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1730023744:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00045108795166015625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1730023768:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20853185653686523</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1627444608:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003521442413330078</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1627444632:Length_in_bytes:35748">
+        <provenance_data_item name="run1">0.008239984512329102</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1635992960:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021004676818847656</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1635992984:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20860934257507324</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1646997272:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003573894500732422</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1646997296:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20848798751831055</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1681030912:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00029921531677246094</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1681030936:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20832228660583496</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1635801520:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020742416381835938</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1635801544:Length_in_bytes:35892">
+        <provenance_data_item name="run1">0.008433103561401367</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1644158432:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002574920654296875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1644158456:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2082839012145996</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1689196384:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00029158592224121094</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1689196408:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2084212303161621</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1700083680:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00023055076599121094</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1700083704:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2190711498260498</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1618800536:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00022125244140625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1618800560:Length_in_bytes:35676">
+        <provenance_data_item name="run1">0.00998830795288086</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1618991976:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021600723266601562</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1618992000:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20842933654785156</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1630262152:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002186298370361328</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1630262176:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2083587646484375</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1633079696:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020885467529296875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1633079720:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20836329460144043</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1621809520:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002238750457763672</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1621809544:Length_in_bytes:35640">
+        <provenance_data_item name="run1">0.008302927017211914</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1624722784:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.000225067138671875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1624722808:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20848727226257324</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1649719096:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003409385681152344</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1649719120:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20845270156860352</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1655162744:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002880096435546875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1655162768:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20849967002868652</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1621713800:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00032782554626464844</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1621713824:Length_in_bytes:35928">
+        <provenance_data_item name="run1">0.008445978164672852</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1641436608:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021457672119140625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1641436632:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20848298072814941</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1657980288:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00023937225341796875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1657980312:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20854496955871582</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1663423936:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003132820129394531</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1663423960:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20845580101013184</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1618896256:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002338886260986328</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1618896280:Length_in_bytes:35784">
+        <provenance_data_item name="run1">0.008044719696044922</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1622000960:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002334117889404297</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1622000984:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20836305618286133</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1627540328:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020503997802734375</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1627540352:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20840120315551758</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1638714784:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002143383026123047</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1638714808:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20844793319702148</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1680935192:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021696090698242188</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1680935216:Length_in_bytes:35856">
+        <provenance_data_item name="run1">0.00822758674621582</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1710970976:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002067089080810547</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1710971000:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2083296775817871</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1721858272:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020933151245117188</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1721858296:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2083728313446045</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1727301920:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021123886108398438</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1727301944:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20837831497192383</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1632983976:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002009868621826172</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1632984000:Length_in_bytes:35892">
+        <provenance_data_item name="run1">0.009880781173706055</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1652440920:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020313262939453125</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1652440944:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20836520195007324</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1708249152:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00020241737365722656</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1708249176:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2084050178527832</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1713692800:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00022363662719726562</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1713692824:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20853686332702637</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1646975976:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.000202178955078125</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1646976000:Length_in_bytes:3272">
+        <provenance_data_item name="run1">0.0009214878082275391</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1666145760:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0001990795135498047</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1666145784:Length_in_bytes:124000">
+        <provenance_data_item name="run1">0.02581048011779785</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1671919032:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00021791458129882812</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1671919056:Length_in_bytes:124000">
+        <provenance_data_item name="run1">0.025795698165893555</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1674970480:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00022745132446289062</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1674970504:Length_in_bytes:124000">
+        <provenance_data_item name="run1">0.0258026123046875</provenance_data_item>
+      </provenance_data_items>
+    </provenance_data_items>
+    <provenance_data_items name="chip1:0">
+      <provenance_data_items name="Memory_address:1617408104:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00035953521728515625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1617408128:Length_in_bytes:35712">
+        <provenance_data_item name="run1">0.027642011642456055</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1621767352:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.000316619873046875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1621767376:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2085108757019043</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1638268440:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00041103363037109375</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1638268464:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20868420600891113</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1640990264:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00041866302490234375</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1640990288:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">1.2726237773895264</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1614484096:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003693103790283203</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1614484120:Length_in_bytes:35604">
+        <provenance_data_item name="run1">0.027693986892700195</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1614622456:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00031685829162597656</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1614622480:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20864534378051758</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1617503824:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003323554992675781</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1617503848:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.21899652481079102</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1632824792:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003361701965332031</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1632824816:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.2085578441619873</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1620225648:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00034880638122558594</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1620225672:Length_in_bytes:35676">
+        <provenance_data_item name="run1">0.027714014053344727</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1625935160:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003044605255126953</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1625935184:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20845389366149902</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1630102968:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.00035953521728515625</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1630102992:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20848560333251953</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1635546616:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003216266632080078</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1635546640:Length_in_bytes:1024000">
+        <provenance_data_item name="run1">0.20857715606689453</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1617344280:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003466606140136719</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1617344304:Length_in_bytes:23064">
+        <provenance_data_item name="run1">0.0180056095123291</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1620321368:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002777576446533203</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1620321392:Length_in_bytes:544000">
+        <provenance_data_item name="run1">1.1538958549499512</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1624489176:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003829002380371094</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1624489200:Length_in_bytes:544000">
+        <provenance_data_item name="run1">0.11133337020874023</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1628656984:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0003018379211425781</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1628657008:Length_in_bytes:544000">
+        <provenance_data_item name="run1">0.11111259460449219</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1614579816:Length_in_bytes:24">
+        <provenance_data_item name="run1">0.0002727508544921875</provenance_data_item>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1614579840:Length_in_bytes:144">
+        <provenance_data_item name="run1">0.00038361549377441406</provenance_data_item>
+      </provenance_data_items>
+    </provenance_data_items>
+  </provenance_data_items>
+  <provenance_data_items name="lost_seq_nums">
+    <provenance_data_items name="chip0:0">
+      <provenance_data_items name="Memory_address:1683752760:Length_in_bytes:1024000">
+        <provenance_data_items name="run1">
+          <provenance_data_item name="iteration_0">55</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1724580120:Length_in_bytes:1024000">
+        <provenance_data_items name="run1">
+          <provenance_data_item name="iteration_0">24</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1700083704:Length_in_bytes:1024000">
+        <provenance_data_items name="run1">
+          <provenance_data_item name="iteration_0">1</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+    </provenance_data_items>
+    <provenance_data_items name="chip1:0">
+      <provenance_data_items name="Memory_address:1640990288:Length_in_bytes:1024000">
+        <provenance_data_items name="run1">
+          <provenance_data_item name="iteration_0">180</provenance_data_item>
+          <provenance_data_item name="iteration_1">96</provenance_data_item>
+          <provenance_data_item name="iteration_2">17</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1617503848:Length_in_bytes:1024000">
+        <provenance_data_items name="run1">
+          <provenance_data_item name="iteration_0">13</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+      <provenance_data_items name="Memory_address:1620321392:Length_in_bytes:544000">
+        <provenance_data_items name="run1">
+          <provenance_data_item name="iteration_0">142</provenance_data_item>
+          <provenance_data_item name="iteration_1">63</provenance_data_item>
+        </provenance_data_items>
+      </provenance_data_items>
+    </provenance_data_items>
+  </provenance_data_items>
+  <provenance_data_items name="serious_lost_seq_num_count">
+    <provenance_data_item name="chip1:0">2</provenance_data_item>
+  </provenance_data_items>
+</provenance_data_items>
