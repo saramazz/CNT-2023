@@ -23,7 +23,7 @@ pip install PyNN
 1. clone this repository `git clone https://github.com/albertoarturovergani/CNT-2023`
 1. Open the directory `SpiNNaker/` and run the [CNT notebook](SpiNNaker/CNT_notebook.ipynb)
 
-### Content:
+## Content:
 
 ### Overview for the design of Spiking Neural Networks (SNNs)
 
@@ -40,7 +40,7 @@ pip install PyNN
     - save and load outputs
     - visualization tools
 
-### Main notebook
+### Tutorial notebook
 
 - [CNT notebook](SpiNNaker/CNT_notebook.ipynb)
 
