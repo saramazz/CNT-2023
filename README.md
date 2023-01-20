@@ -5,16 +5,25 @@ This tutorial has been designed for the following classes:
 - 2021/2022 PhD class on Information Theory and Neural Modeling for Neural Engineering (Prof: Alberto Mazzoni), PhD Program in Biorobotics, Scuola Superiore Sant'Anna, Pisa
 - 2020/2021 PhD class on Large Scale Network Simulations, NeuroSchool PhD Program, INT, Marseille, France
 
-## Introduction on Spiking Neural Networks (SNNs) by using PyNN on the SpiNNaker neuromorphic system.
+## Introduction on Spiking Neural Networks (SNNs) by using PyNN language 
 
-### Instructions to use the material:
+PyNN is a Python library for simulating neural networks. It provides a common interface for a variety of neural simulators, such as NEURON, NEST, and Brian, making it easy to switch between them without having to change the model code. PyNN allows users to define and simulate neural networks using a high-level, neuron-centric interface, similar to the way models are described in neuroscience literature. It is used in many research and education projects to study neural systems, and can be used to simulate models of the brain, as well as artificial neural networks.
+
+## General PyNN [installation](http://neuralensemble.org/docs/PyNN/installation.html#installing-nest-and-pynest):
+### PyNN and classic simulators
+```
+pip install <the-simulator> e.g. brain2, NEURON
+pip install PyNN
+```
+
+### PyNN on the SpiNNaker neuromorphic system:
 
 1. make the EBRAINS credentials to access the SpiNNaker server (https://spinn-20.cs.man.ac.uk/hub/login)
 1. login on the Jupyter Lab interface
 1. clone this repository `git clone https://github.com/albertoarturovergani/CNT-2023`
 1. Open the directory `SpiNNaker/` and run the [CNT notebook](SpiNNaker/CNT_notebook.ipynb)
 
-### Content:
+## Content:
 
 ### Overview for the design of Spiking Neural Networks (SNNs)
 
@@ -31,7 +40,7 @@ This tutorial has been designed for the following classes:
     - save and load outputs
     - visualization tools
 
-### Main notebook
+### Tutorial notebook
 
 - [CNT notebook](SpiNNaker/CNT_notebook.ipynb)
 
